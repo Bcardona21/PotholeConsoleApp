@@ -1,0 +1,7 @@
+D:\C#\Mine\PotholeConsoleApp\Pothole\Pothole\bin\Debug\Pothole.exe.config
+D:\C#\Mine\PotholeConsoleApp\Pothole\Pothole\bin\Debug\Pothole.exe
+D:\C#\Mine\PotholeConsoleApp\Pothole\Pothole\bin\Debug\Pothole.pdb
+D:\C#\Mine\PotholeConsoleApp\Pothole\Pothole\obj\Debug\Pothole.csprojResolveAssemblyReference.cache
+D:\C#\Mine\PotholeConsoleApp\Pothole\Pothole\obj\Debug\Pothole.csproj.CoreCompileInputs.cache
+D:\C#\Mine\PotholeConsoleApp\Pothole\Pothole\obj\Debug\Pothole.exe
+D:\C#\Mine\PotholeConsoleApp\Pothole\Pothole\obj\Debug\Pothole.pdb
