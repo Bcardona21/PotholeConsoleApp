@@ -1,6 +1,6 @@
 # PotholeConsoleApp
 
-A ficticious city application for users to register potholes
+A fictitious city application for users to register potholes
 with the city's Department of Transportation for future road work.
 
 ---
